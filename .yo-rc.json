@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-module": {
+    "promptValues": {
+      "githubName": "falydoor",
+      "authorName": "Theo LEBRUN",
+      "authorEmail": "mib.ftw@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
